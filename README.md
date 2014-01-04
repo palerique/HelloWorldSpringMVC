@@ -1,4 +1,4 @@
-HelloWorldSpringMVC
+HelloWorldSpringMVC XML-Less
 ===================
 
-Tutorial explicado em: http://sitedo.ph/tutorial-hello-world-com-o-spring-mvc/
+Tutorial explicado em: http://sitedo.ph/spring-mvc-configurado-sem-nenhum-xml/

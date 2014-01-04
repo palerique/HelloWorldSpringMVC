@@ -5,7 +5,7 @@
 	<artifactId>hellospringmvc</artifactId>
 	<packaging>war</packaging>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>Hello World com o Spring MVC</name>
+	<name>Hello World com o Spring MVC - versão XML-Less</name>
 	<url>http://sitedo.ph</url>
 	<dependencies>
 		<dependency>
